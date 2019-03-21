@@ -11,7 +11,7 @@ You can find more information about this problem on this link : http://www.wikiw
 In this solution, genetic algorithms is used for this problem. 
 1. Create random board state. (for this program : 10 board - each board has a 8*8 cheeseboard)
 2. Check if the board is optimal
-   ... No --> 1. select the best 8 parents ( 8 board )
+   ...No --> 1. select the best 8 parents ( 8 board )
           2. mix the boards and craete new parents (crossover - muatate - rouletteselection rule )
           3. Check if the board is optimal
    ... Yes --> Print board
