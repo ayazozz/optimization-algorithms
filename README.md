@@ -14,6 +14,6 @@ In this solution, genetic algorithms is used for this problem.
   + No --> 1. select the best 8 parents ( 8 board )
           2. mix the boards and craete new parents (crossover - muatate - rouletteselection rule )
           3. Check if the board is optimal
-   ... Yes --> Print board
+   + Yes --> Print board
    
    ![Capture](https://user-images.githubusercontent.com/38051809/54754533-06c96780-4be4-11e9-860e-fb12645d76b8.PNG)
